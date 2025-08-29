@@ -1,0 +1,1 @@
+pandas\nnumpy\nscikit-learn\nxgboost\nlightgbm\ncatboost\nmatplotlib\nseaborn\njupyter
