@@ -1,1 +1,12 @@
-pandas\nnumpy\nscikit-learn\nxgboost\nlightgbm\ncatboost\nmatplotlib\nseaborn\njupyter
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+scikit-learn
+xgboost
+lightgbm
+catboost
+jupyter
+ipykernel
+missingno
